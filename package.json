@@ -1,0 +1,8 @@
+{
+  "name": "future-dojo.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/future-dojo/future-dojo.github.io.git",
+  "author": "ouland@gmail.com",
+  "license": "MIT"
+}
